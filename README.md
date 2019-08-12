@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My Tweet Reviewer GUI allows you to review each of the tweets in your downloaded Twitter data and to conveniently open those you choose to delete in your internet browser for quick removal. While providing the same functionality as the text based My Tweet Reviewer, the graphical user interface of My Tweet Reviewer GUI makes the review process a little more user-friendly.
+My Tweet Reviewer GUI allows you to review each of the tweets in your downloaded Twitter data and to conveniently open those you choose to delete in your internet browser for quick removal. While providing the same functionality as the text based [My Tweet Reviewer](https://github.com/MatthewCarterIO/my-tweet-reviewer), the graphical user interface of My Tweet Reviewer GUI makes the review process a little more user-friendly.
 
 This is not designed to be a bulk tweet review or delete program; it is intended to offer control for a more considered approach. To support this, the review process can be done offline and progress can be saved at any point and resumed at a later time.
 
